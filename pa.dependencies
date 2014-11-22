@@ -1,7 +1,7 @@
 [
   {
-    "remote": "github",
-    "repository": "mikecriggs/android_device_lge_g2-common",
+    "remote":      "github",
+    "repository":  "mikecriggs/android_device_lge_g2-common",
     "target_path": "device/lge/g2-common"
   },
   {
@@ -28,4 +28,5 @@
     "target_path": "vendor/lge",
     "revision":    "cm-12.0"
   }
+]
 
