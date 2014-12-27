@@ -1,20 +1,9 @@
 [
   {
     "remote":      "github",
-    "repository":  "mikecriggs/android_device_lge_g2-common",
-    "target_path": "device/lge/g2-common"
-  },
-  {
-    "remote":      "github",
-    "repository":  "AOSPA-legacy/android_device_qcom_common",
-    "target_path": "device/qcom/common",
-    "revision":    "lollipop-g2"
-  },
-  {
-    "remote":      "github",
-    "repository":  "AOSPA-legacy/android_frameworks_opt_connectivity",
-    "target_path": "frameworks/opt/connectivity",
-    "revision":    "lollipop"
+    "repository":  "darkpobas/android_device_lge_g2-common",
+    "target_path": "device/lge/g2-common",
+    "revision":    "L"
   },
   {
     "remote":      "github",
