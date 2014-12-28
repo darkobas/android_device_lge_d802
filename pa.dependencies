@@ -1,7 +1,7 @@
 [
   {
     "remote":      "github",
-    "repository":  "darkpobas/android_device_lge_g2-common",
+    "repository":  "darkobas/android_device_lge_g2-common",
     "target_path": "device/lge/g2-common",
     "revision":    "L"
   },
